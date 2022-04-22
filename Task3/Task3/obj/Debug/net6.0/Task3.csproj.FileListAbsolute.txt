@@ -1,0 +1,15 @@
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\bin\Debug\net6.0\Task3.exe
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\bin\Debug\net6.0\Task3.deps.json
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\bin\Debug\net6.0\Task3.dll
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\bin\Debug\net6.0\Task3.pdb
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.dll
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\refint\Task3.dll
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.pdb
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+D:\Pryshchepava\IBA\C# 5.0 and .Net Course\C-Sharp-Course\Task3\Task3\obj\Debug\net6.0\ref\Task3.dll

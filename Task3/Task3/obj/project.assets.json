@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\Task2.csproj",
-      "projectName": "Task2",
-      "projectPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\Task2.csproj",
+      "projectUniqueName": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task3\\Task3\\Task3.csproj",
+      "projectName": "Task3",
+      "projectPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task3\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\KatePryshchepava\\.nuget\\packages\\",
-      "outputPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\obj\\",
+      "outputPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task3\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KatePryshchepava\\AppData\\Roaming\\NuGet\\NuGet.Config",

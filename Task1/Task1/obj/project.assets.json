@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KatePryshchepava\\.nuget\\packages\\": {}
+    "C:\\Users\\kpryshchepava\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task1\\Task1\\Task1.csproj",
       "projectName": "Task1",
       "projectPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task1\\Task1\\Task1.csproj",
-      "packagesPath": "C:\\Users\\KatePryshchepava\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\kpryshchepava\\.nuget\\packages\\",
       "outputPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KatePryshchepava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kpryshchepava\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

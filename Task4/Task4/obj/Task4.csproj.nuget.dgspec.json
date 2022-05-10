@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\Task2.csproj": {}
+    "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task4\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\Task2.csproj": {
+    "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task4\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\Task2.csproj",
-        "projectName": "Task2",
-        "projectPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\Task2.csproj",
+        "projectUniqueName": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task4\\Task4\\Task4.csproj",
+        "projectName": "Task4",
+        "projectPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task4\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\kpryshchepava\\.nuget\\packages\\",
-        "outputPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task2\\Task2\\obj\\",
+        "outputPath": "D:\\Pryshchepava\\IBA\\C# 5.0 and .Net Course\\C-Sharp-Course\\Task4\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kpryshchepava\\AppData\\Roaming\\NuGet\\NuGet.Config",
